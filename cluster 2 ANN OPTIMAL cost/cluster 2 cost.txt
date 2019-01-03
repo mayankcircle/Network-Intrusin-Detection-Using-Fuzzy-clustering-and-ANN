@@ -1,0 +1,6 @@
+#optimal
+
+cost: 0.49517
+lambda=1
+max_iter=200
+training accuracy: 93.40%
